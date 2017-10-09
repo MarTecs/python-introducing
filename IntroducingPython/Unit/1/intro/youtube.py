@@ -1,6 +1,6 @@
 
 # 从python 标准库中导入名为json的所有代码
-import  json
+import json
 # 从python标准urllib库中导入urlopen函数
 from urllib import urlopen
 # 给变量url赋值一个youtube地址
