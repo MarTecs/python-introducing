@@ -1,4 +1,7 @@
 
+"""
+列表
+"""
 cichles = [
     "At the end of the day",
     "Having said that",
@@ -8,4 +11,6 @@ cichles = [
     "If you will",
 ]
 
+
+# 5是偏移量的意思
 print(cichles[5])
