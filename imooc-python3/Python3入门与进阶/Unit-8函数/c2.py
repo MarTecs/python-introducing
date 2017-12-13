@@ -38,5 +38,7 @@ print(result[0], result[1]);    ##不建议这样获得结果值
 dama1 , dama2 = para(1,2);      ##建议这样获得结果值，变量名更加有意义(相对使用序号来说)
 print(dama1, dama2)
 
-## 多
+## 给多个变量进行赋值
+a,b,c = 1,2,3
+print(a,b,c)
 
