@@ -42,3 +42,22 @@ print(dama1, dama2)
 a,b,c = 1,2,3
 print(a,b,c)
 
+
+d = 1,2,3   #也是一个序列解包的过程
+print(type(d)); ##d是一个元组
+
+##进行序列解包
+a,b,c = d;
+print(a,b,c)
+
+##给a,b,c进行赋值1
+a=1;
+b=1;
+c=1;
+print(a,b,c);
+##给a,b,c进行赋值2
+a,b,c = 1,1,1
+##给a,b,c进行赋值3
+a=b=c=1;
+print(a,b,c)
+
