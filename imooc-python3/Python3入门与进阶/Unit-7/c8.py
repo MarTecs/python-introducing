@@ -39,3 +39,5 @@ print(b);
 ### 方法二：对于要导入的使用括号括起来
 from t.c1 import (a,b,c)
 print(b)
+
+
