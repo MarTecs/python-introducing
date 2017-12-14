@@ -21,6 +21,7 @@ student = Student();
 student.print_file();
     '''
     def print_file(self):
-        print("name：" + self.name)
+        print("name：" + self.name);
+        print("age：" + str(self.age));
 student = Student();
 student.print_file();
