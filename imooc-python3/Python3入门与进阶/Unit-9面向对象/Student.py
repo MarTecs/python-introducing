@@ -35,6 +35,11 @@ student.print_file();
         print("age：" + str(self.age));
 
 
+    ## 测试Python中的函数中的变量是不是局部变量
+    def add(self):
+        a = 1;
+        print(a);
+
 '''
 student = Student();
 student.print_file();
