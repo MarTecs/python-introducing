@@ -11,7 +11,8 @@ class Spider():
     url = "https://www.panda.tv/cate/yzdr"
 
     ## Python正则表达式中默认是贪婪的
-    root_pattern = '<div class="video-info">[\s\S]*?</div>'
+    ## 老师问题：为什么这里不可以使用.替代[\s\S]
+    root_pattern = '<div class="video-info">([\s\S]*?)</div>'
 
 
     ##定义一个私有方法
@@ -21,7 +22,6 @@ class Spider():
         ## 此时读取到的是bytes的字节码，我们需要对其进行转换为字符串
         htmls = r.read();
         htmls = str(htmls, encoding="utf-8");
-        print(htmls)
         return htmls;
 
     def go(self):
@@ -29,10 +29,8 @@ class Spider():
 
     def __analysis(self, htmls):
         root_html = re.findall(self.root_pattern, htmls);
-        for i in len(root_html):
-            print(i);
-
+        return root_html;
 
 s = Spider();
-s.go();
+print(s.go());
 
