@@ -29,9 +29,8 @@ class Spider():
 
     def __analysis(self, htmls):
         root_html = re.findall(self.root_pattern, htmls);
-
         for i in len(root_html):
-            print(i)
+            print(i);
 
 
 s = Spider();
