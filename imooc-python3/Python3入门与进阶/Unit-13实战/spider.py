@@ -49,6 +49,5 @@ class Spider():
         return name_html;
 
 s = Spider();
-for i in range(2):
-    print(s.go()[i]);
+print(s.go());
 

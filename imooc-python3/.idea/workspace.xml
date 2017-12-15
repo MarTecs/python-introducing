@@ -42,16 +42,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python3入门与进阶/Unit-9面向对象/c2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="prac.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/廖雪峰/函数/prac.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,14 +92,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="283">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="e#73#82#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/prac/Spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,6 +137,7 @@
         <option value="$PROJECT_DIR$/廖雪峰/函数/math.py" />
         <option value="$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/description.py" />
         <option value="$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/spider.py" />
+        <option value="$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/prac/Spider.py" />
       </list>
     </option>
   </component>
@@ -642,11 +643,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="33" column="24" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="24" />
+        <state relative-caret-position="283">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <element signature="e#73#82#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3入门与进阶/Unit-13实战/prac/Spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
