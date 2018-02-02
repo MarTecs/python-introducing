@@ -9,7 +9,9 @@
 ```Python
 import os
 
-os.system("ipconfig")##打印本机的IP地址，将不会打印中文
+
+##打印本机的IP地址，当出现乱码的时候，执行如下解决方法
+os.system("ipconfig")
 
 
 ```
