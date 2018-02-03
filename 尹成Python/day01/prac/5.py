@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # Author: sivan
 # computer: notebook
-# description: ±àĞ´³ÌĞòÏÔÊ¾ÏÂÃæ±í´ïÊ½µÄ½á¹û
+# description: æ‰“å°è®¡ç®—è¡¨è¾¾å¼
 
 
 print( ( 9.5 * 4.5 - 2.5 / 3 )  / ( 45.5 - 3.5 ) )

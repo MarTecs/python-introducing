@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # Author: sivan
 # computer: notebook
-# description: ±àĞ´³ÌĞòÏÔÊ¾"Welcome to Python"Îå´Î
+# description: è¿ç»­æ‰“å°5è¡Œ
 print("Welcome to Python")
 print("Welcome to Python")
 print("Welcome to Python")

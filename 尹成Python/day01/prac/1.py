@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 # Author: sivan
 # computer: notebook
-# description: 编程题1.1：编程显示"Welcome to Python"，"Welcome to Computer Science"，"Programming is fun."
+# description: 鎵撳嵃"Welcome to Python"锟斤拷"Welcome to Computer Science"锟斤拷"Programming is fun."
 print("Welcome to Python")
 print("Welcome to Computer Science")
 print("Programming is fun.")

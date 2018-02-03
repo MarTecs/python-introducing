@@ -1,11 +1,9 @@
 # -*-coding:utf-8-*-
 # Author: sivan
 # computer: notebook
-# description: turtle¿â£¬Êı¾İ·ÖÎöÒ²»áÊ¹ÓÃµ½£¬¿ÉÒÔÓÃÀ´»æÖÆ¹ÉÆ±×ßÊÆ
+# description: turtleåº“ï¼Œæ•°æ®åˆ†æä¹Ÿä¼šä½¿ç”¨åˆ°ï¼Œå¯ä»¥ç”¨æ¥ç»˜åˆ¶è‚¡ç¥¨èµ°åŠ¿
 
 
 import turtle
 turtle.showturtle()
-turtle.done()   #¿ÉÒÔµ¼ÖÂ³ÌĞòÔİÍ£Ö±µ½ÓÃ»§¹Ø±ÕPython TurtleÍ¼ĞÎ»¯´°¿Ú¡£Ä¿µÄ¾ÍÊÇ¸øÓÃ»§Ê±¼äÀ´²é¿´Í¼ĞÎ¡£
-
-
+turtle.done()   #å¯ä»¥å¯¼è‡´ç¨‹åºæš‚åœç›´åˆ°ç”¨æˆ·å…³é—­Python Turtleå›¾å½¢åŒ–çª—å£ã€‚ç›®çš„å°±æ˜¯ç»™ç”¨æˆ·æ—¶é—´æ¥æŸ¥çœ‹å›¾å½¢ã€‚

@@ -1,9 +1,8 @@
 # -*-coding:utf-8-*-
 # Author: sivan
 # computer: notebook
-# description: 级数求和
+# description: 璁＄畻绾ф暟
 
-#### 编写程序显示 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9
 print(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9)
 
 sum = 0
