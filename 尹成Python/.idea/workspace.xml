@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/prac/6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="打印多行内容.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01/打印多行内容.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="20.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01/prac/20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="185">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="21.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day01/prac/21.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -153,6 +153,7 @@
         <option value="$PROJECT_DIR$/day01/prac/18.py" />
         <option value="$PROJECT_DIR$/day01/prac/19.py" />
         <option value="$PROJECT_DIR$/day01/prac/20.py" />
+        <option value="$PROJECT_DIR$/day01/prac/21.py" />
       </list>
     </option>
   </component>
@@ -280,25 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.20">
-    <configuration default="false" name="16" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01/prac" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="尹成Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/prac/16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.21">
     <configuration default="false" name="17" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,6 +354,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01/prac" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="尹成Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/prac/21.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -436,19 +437,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.16" />
-      <item index="1" class="java.lang.String" itemvalue="Python.17" />
-      <item index="2" class="java.lang.String" itemvalue="Python.18" />
-      <item index="3" class="java.lang.String" itemvalue="Python.19" />
-      <item index="4" class="java.lang.String" itemvalue="Python.20" />
+      <item index="0" class="java.lang.String" itemvalue="Python.17" />
+      <item index="1" class="java.lang.String" itemvalue="Python.18" />
+      <item index="2" class="java.lang.String" itemvalue="Python.19" />
+      <item index="3" class="java.lang.String" itemvalue="Python.20" />
+      <item index="4" class="java.lang.String" itemvalue="Python.21" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.20" />
-        <item index="1" class="java.lang.String" itemvalue="Python.19" />
-        <item index="2" class="java.lang.String" itemvalue="Python.18" />
-        <item index="3" class="java.lang.String" itemvalue="Python.17" />
-        <item index="4" class="java.lang.String" itemvalue="Python.16" />
+        <item index="0" class="java.lang.String" itemvalue="Python.21" />
+        <item index="1" class="java.lang.String" itemvalue="Python.20" />
+        <item index="2" class="java.lang.String" itemvalue="Python.19" />
+        <item index="3" class="java.lang.String" itemvalue="Python.18" />
+        <item index="4" class="java.lang.String" itemvalue="Python.17" />
       </list>
     </recent_temporary>
   </component>
@@ -810,8 +811,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day01/prac/20.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state relative-caret-position="185">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01/prac/21.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
