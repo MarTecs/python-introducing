@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="16.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01/prac/16.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="999">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="17.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01/prac/17.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="25.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/25.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
               <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="24.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/24.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -158,6 +158,7 @@
         <option value="$PROJECT_DIR$/day01plus/21money.py" />
         <option value="$PROJECT_DIR$/day01plus/第二章习题/26.py" />
         <option value="$PROJECT_DIR$/day01plus/第二章习题/25.py" />
+        <option value="$PROJECT_DIR$/day01plus/第二章习题/24.py" />
       </list>
     </option>
   </component>
@@ -277,25 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.25">
-    <configuration default="false" name="20" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01/prac" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="尹成Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01/prac/20.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.24">
     <configuration default="false" name="21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -368,6 +351,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="24" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01plus/第二章习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="尹成Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01plus/第二章习题/24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -433,19 +434,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.20" />
-      <item index="1" class="java.lang.String" itemvalue="Python.21" />
-      <item index="2" class="java.lang.String" itemvalue="Python.21money" />
-      <item index="3" class="java.lang.String" itemvalue="Python.26" />
-      <item index="4" class="java.lang.String" itemvalue="Python.25" />
+      <item index="0" class="java.lang.String" itemvalue="Python.21" />
+      <item index="1" class="java.lang.String" itemvalue="Python.21money" />
+      <item index="2" class="java.lang.String" itemvalue="Python.26" />
+      <item index="3" class="java.lang.String" itemvalue="Python.25" />
+      <item index="4" class="java.lang.String" itemvalue="Python.24" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.25" />
-        <item index="1" class="java.lang.String" itemvalue="Python.26" />
-        <item index="2" class="java.lang.String" itemvalue="Python.21money" />
-        <item index="3" class="java.lang.String" itemvalue="Python.21" />
-        <item index="4" class="java.lang.String" itemvalue="Python.20" />
+        <item index="0" class="java.lang.String" itemvalue="Python.24" />
+        <item index="1" class="java.lang.String" itemvalue="Python.25" />
+        <item index="2" class="java.lang.String" itemvalue="Python.26" />
+        <item index="3" class="java.lang.String" itemvalue="Python.21money" />
+        <item index="4" class="java.lang.String" itemvalue="Python.21" />
       </list>
     </recent_temporary>
   </component>
@@ -503,14 +504,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day01/prac/18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day01/prac/19.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -869,6 +862,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,70 @@
+# -*-coding:utf-8-*-
+# Author: sivan
+# computer: notebook
+# description: 绘制4个正六边形
+
+
+import turtle
+
+turtle.penup()
+turtle.goto(-40, 0)
+turtle.pendown()
+turtle.left(30)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(80)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+
+
+turtle.penup()
+turtle.goto(40, 0)
+turtle.pendown()
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(40)
+turtle.left(60)
+turtle.forward(80)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.right(60)
+turtle.forward(40)
+turtle.left(120)
+
+
+
+turtle.done()
