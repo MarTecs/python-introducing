@@ -3,5 +3,5 @@
 # computer: notebook
 # description: 将英尺数转换为米数
 
-mile = eval(input("请输入英尺数："))
-print("转换为米数为：%f" % (mile * 0.305))
+feet = eval(input("Enter a value for feet："))
+print("%f feet is %f meters" % (feet, feet * 0.305))
