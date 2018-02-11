@@ -9,4 +9,3 @@ finalTemperature = eval(input("Enter the final temperature："))
 print("The final needed is %f" % (M * (finalTemperature - initialTemperatute) * 4184) )
 
 
-######
