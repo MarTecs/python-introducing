@@ -23,7 +23,6 @@ turtle.forward(length)
 turtle.left(90)
 turtle.forward(width)
 
-
 turtle.done()
 
 

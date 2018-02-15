@@ -2,8 +2,6 @@
 # Author: sivan
 # computer: notebook
 # description: 绘制4个正六边形
-
-
 import turtle
 
 turtle.penup()

@@ -14,10 +14,3 @@ immigrantPeople_number = seconds // 45
 
 futurePeople_number = people_number + birthPeople_number - diePeople_number + immigrantPeople_number
 print("%d年后，人口预测为%d" % (year, futurePeople_number))
-
-
-
-
-
-
-
