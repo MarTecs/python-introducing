@@ -6,6 +6,6 @@
 M = eval(input("Enter the amount of water in kilograms："))
 initialTemperatute = eval(input("Enter the initial temperature："))
 finalTemperature = eval(input("Enter the final temperature："))
-print("The final needed is %f" % (M * (finalTemperature - initialTemperatute) * 4184) )
-
+Q = M * (finalTemperature - initialTemperatute) * 4184
+print("The energy needed is %.1f" % Q)
 
