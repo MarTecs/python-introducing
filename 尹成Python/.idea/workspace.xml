@@ -25,16 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/12.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="13.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/13.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="19.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="19.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/19.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="333">
               <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -127,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day01/prac/9.py" />
         <option value="$PROJECT_DIR$/day01/prac/8.py" />
         <option value="$PROJECT_DIR$/day01/prac/7.py" />
         <option value="$PROJECT_DIR$/day01/prac/11.py" />
@@ -178,6 +177,7 @@
         <option value="$PROJECT_DIR$/day01plus/第二章习题/21.py" />
         <option value="$PROJECT_DIR$/day01plus/第二章习题/18.py" />
         <option value="$PROJECT_DIR$/day01plus/第二章习题/19.py" />
+        <option value="$PROJECT_DIR$/day01plus/第二章习题/20.py" />
       </list>
     </option>
   </component>
@@ -315,25 +315,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19">
-    <configuration default="false" name="15" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01plus/第二章习题" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="尹成Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01plus/第二章习题/15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.20">
     <configuration default="false" name="16" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,6 +388,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="20" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day01plus/第二章习题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="尹成Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day01plus/第二章习题/20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -471,19 +471,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.15" />
-      <item index="1" class="java.lang.String" itemvalue="Python.16" />
-      <item index="2" class="java.lang.String" itemvalue="Python.17" />
-      <item index="3" class="java.lang.String" itemvalue="Python.18" />
-      <item index="4" class="java.lang.String" itemvalue="Python.19" />
+      <item index="0" class="java.lang.String" itemvalue="Python.16" />
+      <item index="1" class="java.lang.String" itemvalue="Python.17" />
+      <item index="2" class="java.lang.String" itemvalue="Python.18" />
+      <item index="3" class="java.lang.String" itemvalue="Python.19" />
+      <item index="4" class="java.lang.String" itemvalue="Python.20" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.19" />
-        <item index="1" class="java.lang.String" itemvalue="Python.18" />
-        <item index="2" class="java.lang.String" itemvalue="Python.17" />
-        <item index="3" class="java.lang.String" itemvalue="Python.16" />
-        <item index="4" class="java.lang.String" itemvalue="Python.15" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20" />
+        <item index="1" class="java.lang.String" itemvalue="Python.19" />
+        <item index="2" class="java.lang.String" itemvalue="Python.18" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17" />
+        <item index="4" class="java.lang.String" itemvalue="Python.16" />
       </list>
     </recent_temporary>
   </component>
@@ -542,13 +542,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day01/OS/myos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day01/Error/语法错误.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -900,6 +893,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
           <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01plus/第二章习题/20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding />
         </state>
       </provider>
