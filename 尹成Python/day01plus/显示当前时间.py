@@ -6,8 +6,9 @@
 import time
 while True:
     seconds = time.time()
+    day = (int(seconds) // 24 // 3600)
     second = int(seconds % 60)
     minute = int(seconds / 60 % 60)
     hour = int(seconds / 3600 % 24)
     hour += 8
-    print(hour, minute, second)
+    print(day, hour, minute, second)
