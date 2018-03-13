@@ -21,3 +21,5 @@ def main():
     printGrade(score)
 
 main()
+
+##调用
