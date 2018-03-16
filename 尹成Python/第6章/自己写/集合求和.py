@@ -10,4 +10,6 @@ def sum(head, end):
         result += i
     return result
 
+
+## 打印调用函数的结果
 print(sum(1,10))
